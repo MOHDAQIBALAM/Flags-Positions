@@ -43,10 +43,10 @@ React
 react-world-flags
 
 ## Screenshots
-Visual Comparison: Webpage Appearance Before and After Refresh
+- Visual Comparison: Webpage Appearance Before and After Refresh
 
-Before
+- Before::
 ![Screenshot 1](https://github.com/MOHDAQIBALAM/Flags-Positions/blob/main/src/assets/screenshot.png)
 
-After
+- After::
 ![Screenshot 2](https://github.com/MOHDAQIBALAM/Flags-Positions/blob/main/src/assets/screenshot.png)
