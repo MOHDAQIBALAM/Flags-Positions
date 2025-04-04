@@ -42,8 +42,9 @@ This project uses the react-world-flags package to render country flags dynamica
 React
 react-world-flags
 
-## Screenshots
-- Visual Comparison: Webpage Appearance Before and After Refresh
+### Screenshots
+
+## 1.Visual Comparison: Webpage Appearance Before and After Refresh
 
 Before::
 ![Screenshot 1](https://github.com/MOHDAQIBALAM/Flags-Positions/blob/main/src/assets/screenshot.png)
